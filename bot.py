@@ -12,7 +12,7 @@ print(f"{cwd}\n-----")
 
 bot = commands.Bot(command_prefix="$", case_insensitive=True)
 bot.remove_command("help")
-bot.config_token = "NzM2MTIzMDE0MjEwMzg3OTY5.XxqN-w.2bxi47qNJ9dq3fx4h6Rd9mr1iDQ"
+bot.config_token = "my token :)"
 
 
 @bot.event
